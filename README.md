@@ -1,6 +1,6 @@
 # myATMproject
 This project contains the starter files for my MIT ATM assignment, as well as my improvements, listed as 'ATMOriginal.jsx' and 'myatmchanges.jsx' respectively. It allows users to simulate an ATM's functionality, including depositing, withdrawing, cashback functions.
-
+While it is not perfect yet, it still displays functionality.
 
 Installation
 To run the project locally, follow these steps:
